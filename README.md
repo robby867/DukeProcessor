@@ -42,4 +42,4 @@ to run the simple program.
 To run the processor, open the processor.circ file in Logisim. Right click on the instruction memory, and hit load image. Navigate to the PROGRAM_NAME.imem.lgsim file that you want to load, and load it into instruction memory. Repeat the process for the data memory and the PROGRAM_NAME.dmem.lgsim file. Then you can enable ticks in the simulation menu to run the processor. 
 
 ## Acknowledgements
-This is an adaptation of the cache simulator assignment by Duke Professor Alvin Lebeck. The original assignment has students building a program to simulate a cache. This project takes this simulator and creates an actual software implementation of the simulated cache. Trace files, file io, command line arguments, and specifications of the cache were given by Dr. Lebeck. Everything else is original work.
+This is my submission for the Processor Core Design assignment by Duke Professor Alvin Lebeck. All of the supporting files are of his creation. The processor.circ file is my own original work.
